@@ -33,7 +33,7 @@
 ## 관심 있는 언어(Tool)
 Scala, PHP, Jquery, Next.js, Vue.js, Docker, Kubernetes, Linux, Grafana, Kafka, Jenkins, Redis,
 Prometheus, Flutter, Dart, Wordpress, AWS, Hadoop, GraphQL, SQL, Oracle, Mysql, MariaDB, Tailwind CSS
-Cockroach DB, SCSS, Flask, MongoDB, Django, ELectron, Laravel, Nest.js, R, bootstrap, 
+Cockroach DB, SCSS, Flask, MongoDB, Django, Electron, Laravel, Nest.js, R, bootstrap, 
 
 ## 부 관심 분야
 - 람다 대수학 , 선형 대수학 , 현대 대수학
