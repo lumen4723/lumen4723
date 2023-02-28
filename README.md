@@ -1,18 +1,14 @@
-# 전공(목표)
-
-## 전공세부내용
-- 전공 분야 1
-- 전공 분야 2
-- 전공 분야 3
+## 전공(목표)
+### FullStack과 DataEngineering에 흥미가 있고, MLE(MLOps)까지 확장하는 것이 목표입니다
 
 ## 프로젝트
-- 프로젝트 1
-- 프로젝트 2
+- Svelte + FastAPI + Rust(docker)를 사용한 'kuku'프로젝트
+- thymeleaf(+js) + SpringBoot + Kotlin을 사용한 2022 동계방학 프로젝트
 - ...
 
 ## 사용 가능한 언어
-![이미지1](image1.png)
-![이미지2](image2.png)
+<img src="https://img.shields.io/badge/C?style=flat-square&logo=C&logoColor=#A8B9CC" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Java?style=flat-square&logo=Java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ## 관심 있는 언어
 ![이미지1](image1.png)
