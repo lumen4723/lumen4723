@@ -46,5 +46,5 @@ Cockroach DB, SCSS, Flask, MongoDB, Django, Electron, Laravel, Nest.js, R, boots
 
 ## more Information
 [Notion](https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff)
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:utopian4723@gmail.com)
 
