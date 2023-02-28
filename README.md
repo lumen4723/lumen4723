@@ -45,6 +45,6 @@ Cockroach DB, SCSS, Flask, MongoDB, Django, Electron, Laravel, Nest.js, R, boots
 - 로봇, 기계 공학 , 임베디드
 
 ## more Information
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto::utopian4723@gmail.com)](mailto:utopian4723@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:utopian4723@gmail.com)
 
