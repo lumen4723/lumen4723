@@ -10,18 +10,15 @@
 아직 없슴
 
 ## 사용 가능 언어(Tool)
-<div>
-![image](https://user-images.githubusercontent.com/114812091/221896513-6b3cdb0b-accb-4db4-a994-5c055d48dfe5.png)
-
-C, C++, Java, Python, Haskell, C#, HTM(L), CSS, JS, React, Svelte, Kotlin, Rust, Spring, 
-</div>
+C, C++, Java, Python, Haskell, C#, HTM(L), CSS, JS, React, Svelte, Kotlin, Rust, Spring, Nginx, Bulma CSS
 
 ## 관심 있는 언어(Tool)
-Scala, PHP, Jquery, Next.js, Vue.js, Docker, Kubernetes, Linux, Grafana, Kafka, Jenkins, Redis, Prometheus
+Scala, PHP, Jquery, Next.js, Vue.js, Docker, Kubernetes, Linux, Grafana, Kafka, Jenkins, Redis,
+Prometheus, Flutter, Dart, Wordpress, AWS, Hadoop, GraphQL, SQL, Oracle, Mysql, MariaDB, Tailwind CSS
+Cockroach DB, SCSS, Flask, MongoDB, Django, ELectron, Laravel, Nest.js, R, bootstrap, 
 
 ## 부 관심 분야
-- 람다 대수학
-- 해석학(+실, 복소 함수)
+- 람다 대수학  - 해석학(+실, 복소 함수)
 - 미분 기하학
 - 선형 대수학
 - 암호학
@@ -33,8 +30,7 @@ Scala, PHP, Jquery, Next.js, Vue.js, Docker, Kubernetes, Linux, Grafana, Kafka, 
 - 게임, 그래픽스
 - 고전 물리, 역학
 - 양자 역학(양자 컴퓨터)
-- 로봇공학
-- 기계공학
+- 로봇, 기계 공학
 - 임베디드
 
 ## more Information
