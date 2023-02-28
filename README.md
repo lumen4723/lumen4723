@@ -33,7 +33,7 @@
 ## 관심 있는 언어(Tool)
 Scala, PHP, Jquery, Next.js, Vue.js, Docker, Kubernetes, Linux, Grafana, Kafka, Jenkins, Redis,
 Prometheus, Flutter, Dart, Wordpress, AWS, Hadoop, GraphQL, SQL, Oracle, Mysql, MariaDB, Tailwind CSS
-Cockroach DB, SCSS, Flask, MongoDB, Django, Electron, Laravel, Nest.js, R, bootstrap, 
+Cockroach DB, SCSS, Flask, MongoDB, Django, Electron, Laravel, Nest.js, R, bootstrap, angularJs, Rudux
 
 ## 부 관심 분야
 - 람다 대수학 , 선형 대수학 , 현대 대수학
@@ -45,6 +45,6 @@ Cockroach DB, SCSS, Flask, MongoDB, Django, Electron, Laravel, Nest.js, R, boots
 - 로봇, 기계 공학 , 임베디드
 
 ## more Information
-[Notion](https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:utopian4723@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto::utopian4723@gmail.com)](mailto:utopian4723@gmail.com)
 
