@@ -27,6 +27,6 @@ Cockroach DB, SCSS, Flask, MongoDB, Django, ELectron, Laravel, Nest.js, R, boots
 - 로봇, 기계 공학 , 임베디드
 
 ## more Information
-https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff
+[Notion](https://www.notion.so/74d97cb2cf76444db9c9487fe6d2dcff)
 
 
