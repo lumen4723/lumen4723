@@ -10,7 +10,7 @@
 아직 없슴
 
 ## 사용 가능 언어(Tool)
-C, C++, Java, Python, Haskell, C#, HTM(L), CSS, JS, React, Svelte, Kotlin, Rust, Spring, Nginx, Bulma CSS
+C, C++, Java, Python, Haskell, C#, HTM(L), CSS, JS, React, Svelte, Kotlin, Rust, Spring, Nginx
 
 ## 관심 있는 언어(Tool)
 Scala, PHP, Jquery, Next.js, Vue.js, Docker, Kubernetes, Linux, Grafana, Kafka, Jenkins, Redis,
