@@ -7,7 +7,7 @@
 - ...
 
 ## 사용 가능한 언어
-<img src="https://img.shields.io/badge/C?style=flat-square&logo=C&logoColor=#A8B9CC" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Java?style=flat-square&logo=Java&logoColor=#007396" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ## 관심 있는 언어
