@@ -1,16 +1,27 @@
-### Hi there 👋
+# 전공(목표)
 
-<!--
-**lumen4723/lumen4723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 전공세부내용
+- 전공 분야 1
+- 전공 분야 2
+- 전공 분야 3
 
-Here are some ideas to get you started:
+## 프로젝트
+- 프로젝트 1
+- 프로젝트 2
+- ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 사용 가능한 언어
+![이미지1](image1.png)
+![이미지2](image2.png)
+
+## 관심 있는 언어
+![이미지1](image1.png)
+![이미지2](image2.png)
+
+## 부 관심 분야
+- 부 관심 분야 내용 1
+- 부 관심 분야 내용 2
+- ...
+
+## more Information
+[![링크 이미지1](link_image1.png)](https://example.com)
