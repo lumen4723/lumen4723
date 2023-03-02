@@ -1,4 +1,4 @@
-## 전공(목표)
+## 전공목표
 
 ### FullStack과 DataEngineering에 흥미가 있고, MLE(MLOps)까지 확장하고 싶습니다
 
