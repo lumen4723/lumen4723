@@ -6,6 +6,8 @@
 
 - Svelte + FastAPI + Rust(docker)를 사용한 'kuku'프로젝트(풀스택)
 - thymeleaf(+Jquery) + SpringBoot + Kotlin을 사용한 2022 동계방학 프로젝트(풀스택)
+- C++, Haskell을 사용한 2023 하계방학 알고리즘 강의
+- 웹 바닐라 + NodeJS(Express)를 사용한 2023 하계방학 및 2023 동계방학 프로그래밍 기초 강의
 - ...
 
 ## 전문 언어(Tool)
