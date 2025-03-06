@@ -8,7 +8,10 @@
 - thymeleaf(+Jquery) + SpringBoot + Kotlin을 사용한 2022 동계방학 프로젝트(풀스택)
 - C++, Haskell을 사용한 2023 하계방학 알고리즘 강의
 - 웹 바닐라 + NodeJS(Express)를 사용한 2023 하계방학 및 2023 동계방학 프로그래밍 기초 강의
-- ...
+- C++, Rust를 사용한 2024 동계방학 네트워크 강의
+- SpringBoot + Java + Mysql + Mybatis를 사용한 sns인증 및 공개api 통합 백엔드 서버 제작
+- 음악 디스코드 봇, 리눅스 원격 유투브 실행 사이트 제작
+- C++ VulkanAPI를 사용한 2D 및 3D 예제 제작
 
 ## 전문 언어(Tool)
 
